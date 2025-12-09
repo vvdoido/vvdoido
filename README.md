@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=021026&text=Claudio%20Paiva&fontColor=00C4FF&fontSize=90&desc=Neon%20Dashboards%20%7C%20Data%20Viz%20%7C%20Web%20Apps&descAlignY=65&animation=fadeIn" alt="Hero Claudio Paiva" />
 
   <h1 style="font-size: 2.6rem; margin: 18px 0 8px; text-shadow: 0 0 12px rgba(0,196,255,0.8); font-family: 'Press Start 2P', 'Space Grotesk', sans-serif;">🕹️ Player 1: Claudio Paiva</h1>
-  <h2 style="font-weight: 400; margin: 0 0 12px; font-family:'Space Grotesk', sans-serif; letter-spacing:0.08em;">Arcade dashboards · data storytelling em neon</h2>
+  <h2 style="font-weight: 400; margin: 0 0 12px; font-family:'Space Grotesk', sans-serif; letter-spacing:0.08em;">Dashboards interativos · data storytelling em neon</h2>
   <p style="font-size: 0.9rem; letter-spacing: 0.2em; text-transform: uppercase; color: #48f3ff; margin-bottom: 6px;">eu sou Claudio Paiva</p>
   <p style="font-size: 1rem; color: #c7dfff; max-width: 660px; font-family:'Space Mono', monospace;">Press start para destravar <span style="color:#00c4ff; font-weight:600;">cockpits interativos</span> que soam como fliperamas: cards pulsando, métricas respondendo e automações que jogam junto com o time.</p>
 
@@ -89,4 +89,5 @@ Sou analista de dados com background em PCP e tecnologia, apaixonado por dashboa
 
 ---
 <sub>Feito com ☕, música alta e vontade de criar coisas legais.</sub>
+
 
