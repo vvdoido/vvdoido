@@ -18,7 +18,7 @@
   <p style="font-size:0.8rem; color:#9ad8ff; letter-spacing:0.3em; margin-top:18px;">INSERT COIN • INSERT COIN • INSERT COIN</p>
 </div>
 
-Sou analista de dados com background em PCP e tecnologia, apaixonado por dashboards que parecem telas de arcade futurista. Transformo operações cruas em HUDs com efeitos scanline, gradientes elétricos e métricas que piscam como score alto.
+Sou assistende de PCP com background em tecnologia, apaixonado por dashboards e desenvolvimento web, que parecem telas de arcade futurista. Transformo operações cruas em HUDs com efeitos scanline, gradientes elétricos e métricas que piscam como score alto.
 
 ---
 
@@ -89,5 +89,6 @@ Sou analista de dados com background em PCP e tecnologia, apaixonado por dashboa
 
 ---
 <sub>Feito com ☕, música alta e vontade de criar coisas legais.</sub>
+
 
 
