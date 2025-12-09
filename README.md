@@ -23,7 +23,7 @@ Sou assistende de PCP com background em tecnologia, apaixonado por dashboards e 
 ---
 
 ## 🎮 Quests em andamento
-- 🔭 Upando mini apps em Next.js focados em creators — novas fases todo sprint
+- 🔭 Upando mini apps em Python focados em creators — novas fases todo sprint
 - 🧪 Lapidando animações suaves com Framer Motion + Three.js para telas estilo HUD
 - 📚 Grind constante em growth + analytics para liberar power-ups de métricas
 - 🤝 Sempre online para squads criativos, freelas e collabs com vibe arcade
@@ -89,6 +89,7 @@ Sou assistende de PCP com background em tecnologia, apaixonado por dashboards e 
 
 ---
 <sub>Feito com ☕, música alta e vontade de criar coisas legais.</sub>
+
 
 
 
