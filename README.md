@@ -79,12 +79,6 @@ Sou analista de dados com background em PCP e tecnologia, apaixonado por dashboa
 
 > Curto code aberto! Se algo te inspirar, manda PR ou abre issue.
 
-## 🧮 Placares públicos
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvdoido&show_icons=true&theme=tokyonight&title_color=00c4ff&text_color=94a9ff" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvdoido&layout=compact&theme=tokyonight&title_color=00c4ff&text_color=94a9ff" alt="Top Languages" height="150" />
-</div>
-
 ## 🧠 Curiosidade
 > Tábem sou COD pra ajudar no PCP — ajuda a manter fluidez antes de abrir o Figma.
 
@@ -95,3 +89,4 @@ Sou analista de dados com background em PCP e tecnologia, apaixonado por dashboa
 
 ---
 <sub>Feito com ☕, música alta e vontade de criar coisas legais.</sub>
+
